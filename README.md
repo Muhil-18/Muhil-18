@@ -17,7 +17,7 @@
 ### ☁️ About Me
 
 - 🎓 **B.Tech CSE (Cloud Computing)** @ SRM Institute of Science and Technology, Ramapuram — *Graduating 2027*
-- 🧠 CGPA: **8.15 / 10**
+- 🧠 CGPA: **8.21 / 10**
 - 🌩️ Passionate about **Cloud Computing, Edge AI, and Big Data Analytics**
 - 🛠️ Built an **offline edge-computing platform** powering AI classrooms without internet
 - 📈 Developed a **stock prediction system** with Apache Spark + ML at scale
